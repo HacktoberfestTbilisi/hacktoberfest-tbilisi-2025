@@ -50,7 +50,7 @@ These talks are happening throughout the event—drop in if they interest you, b
 | Time        | Speaker & Topic |
 |-------------|-----------------|
 | 15:00–15:40 | **Roma Gorgoshidze** - "Building Real‑World AI Support Agents: Challenges, Prompt Engineering, and Why Projects Often Fail" |
-| 16:00–16:45 | **Giorgi Bagdavadze** - "Structure and Implementation of Agentic programs" |
+| 12:00–12:45 | **Giorgi Bagdavadze** - "Structure and Implementation of Agentic programs" |
 | 17:00–18:00 | **Rafael Kalandadze** - "Make Agents Great Again" |
 | 18:15–19:15 | **Ioseb Dzmanashvili** - "Unlocking The Black Box Or why Attention Is All You Need?" |
 | 20:00–21:00 | **Tornike Gomareli** - "Hackers Learn by Building: From zero to Eval, creating Lisp" |
